@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5468E1DF-E9A3-4B41-9B0A-8BEAC2B2D95D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cluster.Application", "src\Cluster.Application\Cluster.Application.csproj", "{21AC028C-183A-43C2-80B5-E5644CBA983C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cluster.Aplication", "src\Cluster.Aplication\Cluster.Aplication.csproj", "{21AC028C-183A-43C2-80B5-E5644CBA983C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cluster.Domain", "src\Cluster.Domain\Cluster.Domain.csproj", "{A237C2DD-6E8D-4263-9C0F-5F3932A60BE5}"
 EndProject
