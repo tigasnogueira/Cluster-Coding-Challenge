@@ -1,4 +1,4 @@
-namespace Cluster.Application.Views;
+namespace Cluster.Aplication.Views;
 
 public class MenuItemView
 {

@@ -1,6 +1,6 @@
 namespace Cluster.Domain.Models;
 
-public class Cart
+public class Cart : Entity
 {
     public int IdCart { get; set; }
     public DateTime DateCreated { get; set; }
