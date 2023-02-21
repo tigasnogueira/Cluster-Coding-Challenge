@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Cluster.Domain\Cluster.Domain.csproj" />
+    <ProjectReference Include="..\Cluster.Infra.Data\Cluster.Infra.Data.csproj" />
   </ItemGroup>
 
   <ItemGroup>

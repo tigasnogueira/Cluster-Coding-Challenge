@@ -13,6 +13,7 @@ public class ClusterDbContext : DbContext
     }
 
     public DbSet<Cart> Carts { get; set; }
+    public DbSet<MenuItem> MenuItems { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
